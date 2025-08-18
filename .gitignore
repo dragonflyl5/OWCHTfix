@@ -399,3 +399,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/OWCHTfix/OWCHTfix.csproj.user
+/OWCHTfix/assets/pingfanghk-semibold
+/OWCHTfix/assets/pingfanghk-semibold.manifest
+/OWCHTfix/assets/Translation.xml
+/OWCHTfix/assets/pingfanghk-semibold
+/OWCHTfix/assets/pingfanghk-semibold.manifest
+/OWCHTfix/assets/Translation.xml
