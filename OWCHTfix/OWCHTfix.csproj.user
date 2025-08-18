@@ -1,0 +1,17 @@
+﻿<Project>
+  <PropertyGroup>
+    <OutputPath>D:\OWML\Mods\DragonflyL5.OWCHTfix</OutputPath>
+  </PropertyGroup>
+	<ItemGroup>
+		<Content Include="C:\Users\ASUS\source\repos\OWCHTfix\OWCHTfix\assets\pingfanghk-semibold">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+		<Content Include="C:\Users\ASUS\source\repos\OWCHTfix\OWCHTfix\assets\pingfanghk-semibold.manifest">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+		<Content Include="C:\Users\ASUS\source\repos\OWCHTfix\OWCHTfix\assets\Translation.xml">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+</Project>
+
