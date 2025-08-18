@@ -1,6 +1,6 @@
 ﻿<Project>
   <PropertyGroup>
-    <OutputPath>D:\OWML\Mods\DragonflyL5.OWCHTfix</OutputPath>
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\DragonflyL5.OWCHTfix</OutputPath>
   </PropertyGroup>
 	<ItemGroup>
 		<Content Include="assets\pingfanghk-semibold">
