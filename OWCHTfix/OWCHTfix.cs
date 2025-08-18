@@ -13,7 +13,7 @@ namespace OWCHTfix
         {
             var api = ModHelper.Interaction.TryGetModApi<ILocalizationAPI>("xen.LocalizationUtility");
             api.RegisterLanguage(this, "ChineseFixed", "assets/Translation.xml");
-            api.AddLanguageFont(this, "ChineseFixed", "assets/pingfanghk-semibold", "Assets/pingfanghk-semibold.otf");
+            api.AddLanguageFont(this, "ChineseFixed", "assets/pingfanghk-semibold", "assets/pingfanghk-semibold.otf");
         }
     }
 }
