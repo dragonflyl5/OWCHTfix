@@ -3,13 +3,13 @@
     <OutputPath>D:\OWML\Mods\DragonflyL5.OWCHTfix</OutputPath>
   </PropertyGroup>
 	<ItemGroup>
-		<Content Include="C:\Users\ASUS\source\repos\OWCHTfix\OWCHTfix\assets\pingfanghk-semibold">
+		<Content Include="assets\pingfanghk-semibold">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Include="C:\Users\ASUS\source\repos\OWCHTfix\OWCHTfix\assets\pingfanghk-semibold.manifest">
+		<Content Include="assets\pingfanghk-semibold.manifest">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
-		<Content Include="C:\Users\ASUS\source\repos\OWCHTfix\OWCHTfix\assets\Translation.xml">
+		<Content Include="assets\Translation.xml">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>
