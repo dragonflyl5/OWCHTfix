@@ -8,3 +8,5 @@ This mod is based on the library [Interplanetary Polyglot](https://github.com/xe
 **游戏内语言设置选择ChineseFix以切换到mod翻译（安装后即默认为此语言）**
 
 ![classic](img/pic.png)
+
+已知问题：中途退出到标题界面再进会导致飞船字体显示补丁失效（暂无修复办法），退出重开会恢复正常。
