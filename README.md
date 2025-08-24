@@ -11,4 +11,5 @@ This mod is based on the library [Interplanetary Polyglot](https://github.com/xe
 
 ![classic](img/pic.png)
 
-已知问题：1.中途退出到标题界面再进会导致飞船字体显示补丁失效（暂无修复办法），退出重开会恢复正常。2.由于翻译库的一个bug，有两条文本（不太重要）暂时无法正常显示翻译。
+已知问题：1.中途退出到标题界面再进会导致飞船字体显示补丁失效（暂无修复办法），退出重开会恢复正常。
+2.由于翻译库的一个bug，有两条文本（不太重要）暂时无法正常显示翻译。
