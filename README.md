@@ -8,9 +8,9 @@ This mod is based on the library [Interplanetary Polyglot](https://github.com/xe
 **游戏内语言设置选择ChineseFix以切换到mod翻译（安装后即默认为此语言）**
 
 注：目前版本为预览版。本体翻译完成后会发布正式版v1.0.0，后续DLC完成后会再更一个小版本。
+（~感谢nice2cu1最近的bugfix）
 
 ![classic](img/pic.png)
 
 已知问题：
 由于翻译库的一个bug，有两条文本（不太重要）暂时无法正常显示翻译。
-（~感谢nice2cu1最近的bugfix）
