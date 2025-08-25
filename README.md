@@ -13,4 +13,5 @@ This mod is based on the library [Interplanetary Polyglot](https://github.com/xe
 ![classic](img/pic.png)
 
 已知问题：
-由于翻译库的一个bug，有两条文本（不太重要）暂时无法正常显示翻译。
+由于翻译库的一个bug，有两条文本（不太重要）暂时无法正常显示翻译。  
+一个字体问题导致死亡文本无法显示且将冻结游戏。
