@@ -9,7 +9,7 @@ This mod is based on the library [Interplanetary Polyglot](https://github.com/xe
 
 注：目前版本翻译了本体的所有文本，后续DLC完成后会再更一个小版本。
 
-![classic](img/pic.png)
+
 
 已知问题：  
 由于翻译库的一个bug，有两条文本（不太重要）暂时无法正常显示翻译。  
