@@ -4,7 +4,7 @@
   "author": "DragonflyL5",
   "name": "OWCHTfix",
   "uniqueName": "DragonflyL5.OWCHTfix",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "owmlVersion": "2.15.4",
   "dependencies": [
     "xen.LocalizationUtility",
